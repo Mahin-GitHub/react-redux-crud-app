@@ -1,0 +1,20 @@
+
+ul {
+    display: flex;
+    background-color: aquamarine;
+    padding: 20px;
+}
+nav :any-link{
+    text-decoration: none;
+   
+}
+ul li {
+    list-style-type: none;
+    margin: 10px auto;
+
+}
+
+Link {
+    text-decoration: none;
+}
+
